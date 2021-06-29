@@ -1,0 +1,18 @@
+header {
+    background-color: black;
+}
+
+.div_menu .menu a {
+    color: white;
+}
+
+.slider-div {
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
